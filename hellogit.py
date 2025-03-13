@@ -1,2 +1,1 @@
-println("actualizando texto git")
-print ("hello git 2 ")
+print ("hello github ")
